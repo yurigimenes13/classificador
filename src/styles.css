@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+.modalWrapper > .po-modal > .po-modal-overlay > .po-modal-container > .po-modal-vertical-align > .po-modal-auto {
+  background-color: #fcfbfd;
+   }
+
+.modalWrapper > .po-modal > .po-modal-overlay > .po-modal-container > .po-modal-vertical-align > .po-modal-auto > .po-modal-footer {
+   background-color: #fcfbfd;
+   }
